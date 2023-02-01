@@ -47,6 +47,10 @@ section{
     color: lightblue;
 }
 
+.submit{
+    margin-left: auto;
+}
+
 .titulo-principal{
     font-size: 48px;
     text-align: center;
